@@ -13,7 +13,7 @@ python3 resolver.py
 
 ## Contributing
 
-Per la creazione del dizionario si ringrazia [napolux].(https://github.com/napolux/paroleitaliane)
+Per la creazione del dizionario si ringrazia [napolux](https://github.com/napolux/paroleitaliane).
 
 ## License
 [Pasquale Rombolà](https://github.com/PascalRomb/)
